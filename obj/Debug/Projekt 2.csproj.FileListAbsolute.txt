@@ -1,0 +1,7 @@
+C:\Users\edgar\Desktop\C#\Projekt 2\obj\Debug\Projekt 2.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\C#\Projekt 2\obj\Debug\Projekt 2.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\C#\Projekt 2\bin\Debug\Projekt 2.exe.config
+C:\Users\edgar\Desktop\C#\Projekt 2\bin\Debug\Projekt 2.exe
+C:\Users\edgar\Desktop\C#\Projekt 2\bin\Debug\Projekt 2.pdb
+C:\Users\edgar\Desktop\C#\Projekt 2\obj\Debug\Projekt 2.exe
+C:\Users\edgar\Desktop\C#\Projekt 2\obj\Debug\Projekt 2.pdb
